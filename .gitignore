@@ -1,0 +1,6 @@
+#database폴더 제외
+database/
+#week_10은 과제가아님 템플릿임
+week_10/
+week_11/
+
